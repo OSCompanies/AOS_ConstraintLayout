@@ -1,6 +1,6 @@
 # ConstraintLayout 예제
 ## 설명 참고
-### <a href="https://spectacled-plastic-a9d.notion.site/ConstraintLayout-9b99921bb55842b899fd4ea47133d1c4">Notion - ConstraintLayout</a>
+### <a href="https://spectacled-plastic-a9d.notion.site/ConstraintLayout-9b99921bb55842b899fd4ea47133d1c4" target="_blank">Notion - ConstraintLayout</a>
 
 ## 목차
 ### 1. ConstrainLayout 속성 기본 사용법
